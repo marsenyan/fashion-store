@@ -6,7 +6,7 @@ Welcome to the FashionBoutique project! This repository contains the front-end c
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/FashionBoutique.git
+   git clone https://github.com/marsenyan/fashion-store.git
    ```
 
 2. **Navigate to Project Directory:**
