@@ -13,21 +13,19 @@ export const Promo = () => {
 								<span>LET’S</span>
 							</Highlight>
 							EXPLORE
-							<Highlight>
+							<Highlight className="highlight--yellow">
 								<span>UNIQUE</span>
 							</Highlight>
 							CLOTHES.
 						</PromoTitle>
 						<PromoDesc>Live for Influential and Innovative fashion!</PromoDesc>
 						<PromoBtnWrapper>
-							<PromoBtn href="#!" >
-								Shop Now
-							</PromoBtn>
+							<PromoBtn href="#!">Shop Now</PromoBtn>
 						</PromoBtnWrapper>
 					</PromoText>
-					<>
+					<div className="promo__img">
 						<img src={promoImg} alt="Promo" />
-					</>
+					</div>
 				</PromoContent>
 			</div>
 		</PromoSection>
